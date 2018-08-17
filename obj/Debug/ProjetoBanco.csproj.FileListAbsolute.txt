@@ -1,0 +1,22 @@
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe.config
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csprojResolveAssemblyReference.cache
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Form1.resources
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Properties.Resources.resources
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.GenerateResource.Cache
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.exe
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.pdb
+C:\Users\jgcoliveira\source\repos\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.FormCadastroConta.resources
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe.config
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csprojResolveAssemblyReference.cache
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Form1.resources
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.FormCadastroConta.resources
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Properties.Resources.resources
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.GenerateResource.Cache
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.exe
+C:\Users\jgcoliveira\Source\Repos\Pequeno projeto\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.pdb
